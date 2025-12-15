@@ -1,0 +1,357 @@
+{
+  "entrypoints": [
+    "main"
+  ],
+  "origins": {
+    "237": [
+      237
+    ],
+    "17896441": [
+      869,
+      401
+    ],
+    "73968332": [
+      869,
+      600
+    ],
+    "main": [
+      354,
+      869,
+      792
+    ],
+    "runtime~main": [
+      792,
+      869,
+      354
+    ],
+    "0e384e19": [
+      976
+    ],
+    "1843a751": [
+      869,
+      369
+    ],
+    "1c6bf794": [
+      441
+    ],
+    "464c12f2": [
+      555
+    ],
+    "4a1d294a": [
+      375
+    ],
+    "5c7b5868": [
+      353
+    ],
+    "5e95c892": [
+      647
+    ],
+    "7b7bbae6": [
+      489
+    ],
+    "a7456010": [
+      235
+    ],
+    "a7bd4aaa": [
+      98
+    ],
+    "a94703ab": [
+      869,
+      48
+    ],
+    "aba21aa0": [
+      742
+    ],
+    "b6ffdf91": [
+      869,
+      367
+    ],
+    "c4f5d8e4": [
+      869,
+      634
+    ],
+    "c7b39284": [
+      869,
+      473
+    ],
+    "cf819f72": [
+      869,
+      755
+    ],
+    "d03bebe8": [
+      869,
+      770
+    ],
+    "d14d5f06": [
+      449
+    ],
+    "dd335f98": [
+      231
+    ],
+    "e91b6bc5": [
+      280
+    ],
+    "eb250a5e": [
+      570
+    ],
+    "styles": [
+      48,
+      354,
+      367,
+      369,
+      401,
+      473,
+      600,
+      634,
+      755,
+      770,
+      792,
+      869
+    ]
+  },
+  "assets": {
+    "48": {
+      "js": [
+        {
+          "file": "assets/js/a94703ab.23757bb4.js",
+          "hash": "b9b113324d7dbe6e",
+          "publicPath": "/docusaurus-textbook-physical-ai-humanoid-robotics/assets/js/a94703ab.23757bb4.js"
+        }
+      ]
+    },
+    "98": {
+      "js": [
+        {
+          "file": "assets/js/a7bd4aaa.c93fd9bc.js",
+          "hash": "ff90f5a16f375bf7",
+          "publicPath": "/docusaurus-textbook-physical-ai-humanoid-robotics/assets/js/a7bd4aaa.c93fd9bc.js"
+        }
+      ]
+    },
+    "231": {
+      "js": [
+        {
+          "file": "assets/js/dd335f98.1481d717.js",
+          "hash": "74a67a68a3f8a9b9",
+          "publicPath": "/docusaurus-textbook-physical-ai-humanoid-robotics/assets/js/dd335f98.1481d717.js"
+        }
+      ]
+    },
+    "235": {
+      "js": [
+        {
+          "file": "assets/js/a7456010.408c2802.js",
+          "hash": "51fda7f44df88f1b",
+          "publicPath": "/docusaurus-textbook-physical-ai-humanoid-robotics/assets/js/a7456010.408c2802.js"
+        }
+      ]
+    },
+    "237": {
+      "js": [
+        {
+          "file": "assets/js/237.bda6c227.js",
+          "hash": "2f143309f3220b03",
+          "publicPath": "/docusaurus-textbook-physical-ai-humanoid-robotics/assets/js/237.bda6c227.js"
+        }
+      ]
+    },
+    "280": {
+      "js": [
+        {
+          "file": "assets/js/e91b6bc5.7381e2e7.js",
+          "hash": "63ed8a1a2fecbcb6",
+          "publicPath": "/docusaurus-textbook-physical-ai-humanoid-robotics/assets/js/e91b6bc5.7381e2e7.js"
+        }
+      ]
+    },
+    "353": {
+      "js": [
+        {
+          "file": "assets/js/5c7b5868.6ac2c05b.js",
+          "hash": "d68e11d9efdedce5",
+          "publicPath": "/docusaurus-textbook-physical-ai-humanoid-robotics/assets/js/5c7b5868.6ac2c05b.js"
+        }
+      ]
+    },
+    "354": {
+      "js": [
+        {
+          "file": "assets/js/runtime~main.6f5cddba.js",
+          "hash": "a2ea377b3c7dde18",
+          "publicPath": "/docusaurus-textbook-physical-ai-humanoid-robotics/assets/js/runtime~main.6f5cddba.js"
+        }
+      ]
+    },
+    "367": {
+      "js": [
+        {
+          "file": "assets/js/b6ffdf91.6ede9748.js",
+          "hash": "5de817709f73a63d",
+          "publicPath": "/docusaurus-textbook-physical-ai-humanoid-robotics/assets/js/b6ffdf91.6ede9748.js"
+        }
+      ]
+    },
+    "369": {
+      "js": [
+        {
+          "file": "assets/js/1843a751.b3ac1e83.js",
+          "hash": "b4962ddf3aa2fecd",
+          "publicPath": "/docusaurus-textbook-physical-ai-humanoid-robotics/assets/js/1843a751.b3ac1e83.js"
+        }
+      ]
+    },
+    "375": {
+      "js": [
+        {
+          "file": "assets/js/4a1d294a.9c464704.js",
+          "hash": "9794f290485d28a2",
+          "publicPath": "/docusaurus-textbook-physical-ai-humanoid-robotics/assets/js/4a1d294a.9c464704.js"
+        }
+      ]
+    },
+    "401": {
+      "js": [
+        {
+          "file": "assets/js/17896441.1fc9cf6f.js",
+          "hash": "425cf4addabae3de",
+          "publicPath": "/docusaurus-textbook-physical-ai-humanoid-robotics/assets/js/17896441.1fc9cf6f.js"
+        }
+      ]
+    },
+    "441": {
+      "js": [
+        {
+          "file": "assets/js/1c6bf794.b80173a7.js",
+          "hash": "d8f4007a400a2199",
+          "publicPath": "/docusaurus-textbook-physical-ai-humanoid-robotics/assets/js/1c6bf794.b80173a7.js"
+        }
+      ]
+    },
+    "449": {
+      "js": [
+        {
+          "file": "assets/js/d14d5f06.b9b7a699.js",
+          "hash": "546cc7dc22d3e521",
+          "publicPath": "/docusaurus-textbook-physical-ai-humanoid-robotics/assets/js/d14d5f06.b9b7a699.js"
+        }
+      ]
+    },
+    "473": {
+      "js": [
+        {
+          "file": "assets/js/c7b39284.8c97bf73.js",
+          "hash": "7f825cadecf7e735",
+          "publicPath": "/docusaurus-textbook-physical-ai-humanoid-robotics/assets/js/c7b39284.8c97bf73.js"
+        }
+      ]
+    },
+    "489": {
+      "js": [
+        {
+          "file": "assets/js/7b7bbae6.b189c626.js",
+          "hash": "ba32a6026106df65",
+          "publicPath": "/docusaurus-textbook-physical-ai-humanoid-robotics/assets/js/7b7bbae6.b189c626.js"
+        }
+      ]
+    },
+    "555": {
+      "js": [
+        {
+          "file": "assets/js/464c12f2.d298a2f1.js",
+          "hash": "3315cca1dd86303c",
+          "publicPath": "/docusaurus-textbook-physical-ai-humanoid-robotics/assets/js/464c12f2.d298a2f1.js"
+        }
+      ]
+    },
+    "570": {
+      "js": [
+        {
+          "file": "assets/js/eb250a5e.a6eb8d6e.js",
+          "hash": "7256661e50e7abb8",
+          "publicPath": "/docusaurus-textbook-physical-ai-humanoid-robotics/assets/js/eb250a5e.a6eb8d6e.js"
+        }
+      ]
+    },
+    "600": {
+      "js": [
+        {
+          "file": "assets/js/73968332.3b17ff5c.js",
+          "hash": "2dc0e7245dd61ca6",
+          "publicPath": "/docusaurus-textbook-physical-ai-humanoid-robotics/assets/js/73968332.3b17ff5c.js"
+        }
+      ]
+    },
+    "634": {
+      "js": [
+        {
+          "file": "assets/js/c4f5d8e4.bf04758a.js",
+          "hash": "76cea97db7abf433",
+          "publicPath": "/docusaurus-textbook-physical-ai-humanoid-robotics/assets/js/c4f5d8e4.bf04758a.js"
+        }
+      ]
+    },
+    "647": {
+      "js": [
+        {
+          "file": "assets/js/5e95c892.7de42cd6.js",
+          "hash": "06b9e30dd46e6c78",
+          "publicPath": "/docusaurus-textbook-physical-ai-humanoid-robotics/assets/js/5e95c892.7de42cd6.js"
+        }
+      ]
+    },
+    "742": {
+      "js": [
+        {
+          "file": "assets/js/aba21aa0.3551edf4.js",
+          "hash": "0d92ac94f2e1c82f",
+          "publicPath": "/docusaurus-textbook-physical-ai-humanoid-robotics/assets/js/aba21aa0.3551edf4.js"
+        }
+      ]
+    },
+    "755": {
+      "js": [
+        {
+          "file": "assets/js/cf819f72.e826f521.js",
+          "hash": "b5d233561ea0124f",
+          "publicPath": "/docusaurus-textbook-physical-ai-humanoid-robotics/assets/js/cf819f72.e826f521.js"
+        }
+      ]
+    },
+    "770": {
+      "js": [
+        {
+          "file": "assets/js/d03bebe8.b90bd954.js",
+          "hash": "32c8710700d173b1",
+          "publicPath": "/docusaurus-textbook-physical-ai-humanoid-robotics/assets/js/d03bebe8.b90bd954.js"
+        }
+      ]
+    },
+    "792": {
+      "js": [
+        {
+          "file": "assets/js/main.54bb7737.js",
+          "hash": "8207762f05eef9ce",
+          "publicPath": "/docusaurus-textbook-physical-ai-humanoid-robotics/assets/js/main.54bb7737.js"
+        }
+      ]
+    },
+    "869": {
+      "css": [
+        {
+          "file": "assets/css/styles.d8fdd2ee.css",
+          "hash": "156118fee56f2183",
+          "publicPath": "/docusaurus-textbook-physical-ai-humanoid-robotics/assets/css/styles.d8fdd2ee.css"
+        }
+      ]
+    },
+    "976": {
+      "js": [
+        {
+          "file": "assets/js/0e384e19.22878c08.js",
+          "hash": "ad0983e2f06e2c5f",
+          "publicPath": "/docusaurus-textbook-physical-ai-humanoid-robotics/assets/js/0e384e19.22878c08.js"
+        }
+      ]
+    }
+  }
+}

@@ -1,0 +1,27 @@
+{
+  "id": "ros2-fundamentals/ros2-examples",
+  "title": "ROS 2 Examples and Best Practices",
+  "description": "This section provides practical examples of ROS 2 concepts and best practices for implementing them in humanoid robotics systems.",
+  "source": "@site/docs/ros2-fundamentals/examples.md",
+  "sourceDirName": "ros2-fundamentals",
+  "slug": "/ros2-fundamentals/ros2-examples",
+  "permalink": "/docusaurus-textbook-physical-ai-humanoid-robotics/docs/ros2-fundamentals/ros2-examples",
+  "draft": false,
+  "unlisted": false,
+  "editUrl": "https://github.com/your-username/your-repo/edit/main/docusaurus-book/docs/ros2-fundamentals/examples.md",
+  "tags": [],
+  "version": "current",
+  "frontMatter": {
+    "id": "ros2-examples",
+    "title": "ROS 2 Examples and Best Practices"
+  },
+  "sidebar": "textbook",
+  "previous": {
+    "title": "Core ROS 2 Concepts",
+    "permalink": "/docusaurus-textbook-physical-ai-humanoid-robotics/docs/ros2-fundamentals/ros2-concepts"
+  },
+  "next": {
+    "title": "Robot Simulation with Gazebo",
+    "permalink": "/docusaurus-textbook-physical-ai-humanoid-robotics/docs/robot-simulation/gazebo"
+  }
+}

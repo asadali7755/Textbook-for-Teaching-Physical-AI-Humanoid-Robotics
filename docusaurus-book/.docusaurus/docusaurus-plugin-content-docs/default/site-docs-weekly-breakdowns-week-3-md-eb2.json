@@ -1,0 +1,27 @@
+{
+  "id": "weekly-breakdowns/week-3",
+  "title": "Week 3 - Robot Simulation",
+  "description": "This week focuses on robot simulation techniques using Gazebo and Unity, essential for testing and validating humanoid robotics algorithms.",
+  "source": "@site/docs/weekly-breakdowns/week-3.md",
+  "sourceDirName": "weekly-breakdowns",
+  "slug": "/weekly-breakdowns/week-3",
+  "permalink": "/docusaurus-textbook-physical-ai-humanoid-robotics/docs/weekly-breakdowns/week-3",
+  "draft": false,
+  "unlisted": false,
+  "editUrl": "https://github.com/your-username/your-repo/edit/main/docusaurus-book/docs/weekly-breakdowns/week-3.md",
+  "tags": [],
+  "version": "current",
+  "frontMatter": {
+    "id": "week-3",
+    "title": "Week 3 - Robot Simulation"
+  },
+  "sidebar": "textbook",
+  "previous": {
+    "title": "Week 2 - ROS 2 Fundamentals",
+    "permalink": "/docusaurus-textbook-physical-ai-humanoid-robotics/docs/weekly-breakdowns/week-2"
+  },
+  "next": {
+    "title": "Week 4 - NVIDIA Isaac Platform",
+    "permalink": "/docusaurus-textbook-physical-ai-humanoid-robotics/docs/weekly-breakdowns/week-4"
+  }
+}

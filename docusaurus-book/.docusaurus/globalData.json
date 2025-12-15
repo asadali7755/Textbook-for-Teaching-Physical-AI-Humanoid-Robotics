@@ -1,0 +1,103 @@
+{
+  "docusaurus-plugin-content-docs": {
+    "default": {
+      "path": "/docusaurus-textbook-physical-ai-humanoid-robotics/docs",
+      "versions": [
+        {
+          "name": "current",
+          "label": "Next",
+          "isLast": true,
+          "path": "/docusaurus-textbook-physical-ai-humanoid-robotics/docs",
+          "mainDocId": "intro",
+          "docs": [
+            {
+              "id": "conversational-robotics/conversational-robotics-intro",
+              "path": "/docusaurus-textbook-physical-ai-humanoid-robotics/docs/conversational-robotics/",
+              "sidebar": "textbook"
+            },
+            {
+              "id": "intro",
+              "path": "/docusaurus-textbook-physical-ai-humanoid-robotics/docs/intro",
+              "sidebar": "textbook"
+            },
+            {
+              "id": "nvidia-isaac/nvidia-isaac-intro",
+              "path": "/docusaurus-textbook-physical-ai-humanoid-robotics/docs/nvidia-isaac/",
+              "sidebar": "textbook"
+            },
+            {
+              "id": "robot-simulation/gazebo",
+              "path": "/docusaurus-textbook-physical-ai-humanoid-robotics/docs/robot-simulation/gazebo",
+              "sidebar": "textbook"
+            },
+            {
+              "id": "robot-simulation/unity",
+              "path": "/docusaurus-textbook-physical-ai-humanoid-robotics/docs/robot-simulation/unity",
+              "sidebar": "textbook"
+            },
+            {
+              "id": "ros2-fundamentals/ros2-concepts",
+              "path": "/docusaurus-textbook-physical-ai-humanoid-robotics/docs/ros2-fundamentals/ros2-concepts",
+              "sidebar": "textbook"
+            },
+            {
+              "id": "ros2-fundamentals/ros2-examples",
+              "path": "/docusaurus-textbook-physical-ai-humanoid-robotics/docs/ros2-fundamentals/ros2-examples",
+              "sidebar": "textbook"
+            },
+            {
+              "id": "ros2-fundamentals/ros2-intro",
+              "path": "/docusaurus-textbook-physical-ai-humanoid-robotics/docs/ros2-fundamentals/",
+              "sidebar": "textbook"
+            },
+            {
+              "id": "vla-systems/vla-systems-intro",
+              "path": "/docusaurus-textbook-physical-ai-humanoid-robotics/docs/vla-systems/",
+              "sidebar": "textbook"
+            },
+            {
+              "id": "weekly-breakdowns/week-1",
+              "path": "/docusaurus-textbook-physical-ai-humanoid-robotics/docs/weekly-breakdowns/week-1",
+              "sidebar": "textbook"
+            },
+            {
+              "id": "weekly-breakdowns/week-2",
+              "path": "/docusaurus-textbook-physical-ai-humanoid-robotics/docs/weekly-breakdowns/week-2",
+              "sidebar": "textbook"
+            },
+            {
+              "id": "weekly-breakdowns/week-3",
+              "path": "/docusaurus-textbook-physical-ai-humanoid-robotics/docs/weekly-breakdowns/week-3",
+              "sidebar": "textbook"
+            },
+            {
+              "id": "weekly-breakdowns/week-4",
+              "path": "/docusaurus-textbook-physical-ai-humanoid-robotics/docs/weekly-breakdowns/week-4",
+              "sidebar": "textbook"
+            },
+            {
+              "id": "weekly-breakdowns/week-5",
+              "path": "/docusaurus-textbook-physical-ai-humanoid-robotics/docs/weekly-breakdowns/week-5",
+              "sidebar": "textbook"
+            },
+            {
+              "id": "weekly-breakdowns/week-6",
+              "path": "/docusaurus-textbook-physical-ai-humanoid-robotics/docs/weekly-breakdowns/week-6",
+              "sidebar": "textbook"
+            }
+          ],
+          "draftIds": [],
+          "sidebars": {
+            "textbook": {
+              "link": {
+                "path": "/docusaurus-textbook-physical-ai-humanoid-robotics/docs/intro",
+                "label": "intro"
+              }
+            }
+          }
+        }
+      ],
+      "breadcrumbs": true
+    }
+  }
+}

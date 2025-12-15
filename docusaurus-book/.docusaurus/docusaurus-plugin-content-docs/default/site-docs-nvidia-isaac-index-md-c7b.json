@@ -1,0 +1,27 @@
+{
+  "id": "nvidia-isaac/nvidia-isaac-intro",
+  "title": "NVIDIA Isaac Platform",
+  "description": "This chapter introduces the NVIDIA Isaac platform, a comprehensive solution for developing, simulating, and deploying AI-powered robots. The platform combines NVIDIA's GPU computing capabilities with specialized tools and frameworks for robotics applications.",
+  "source": "@site/docs/nvidia-isaac/index.md",
+  "sourceDirName": "nvidia-isaac",
+  "slug": "/nvidia-isaac/",
+  "permalink": "/docusaurus-textbook-physical-ai-humanoid-robotics/docs/nvidia-isaac/",
+  "draft": false,
+  "unlisted": false,
+  "editUrl": "https://github.com/your-username/your-repo/edit/main/docusaurus-book/docs/nvidia-isaac/index.md",
+  "tags": [],
+  "version": "current",
+  "frontMatter": {
+    "id": "nvidia-isaac-intro",
+    "title": "NVIDIA Isaac Platform"
+  },
+  "sidebar": "textbook",
+  "previous": {
+    "title": "Robot Simulation with Unity",
+    "permalink": "/docusaurus-textbook-physical-ai-humanoid-robotics/docs/robot-simulation/unity"
+  },
+  "next": {
+    "title": "Vision-Language-Action (VLA) Systems",
+    "permalink": "/docusaurus-textbook-physical-ai-humanoid-robotics/docs/vla-systems/"
+  }
+}

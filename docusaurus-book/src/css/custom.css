@@ -1,0 +1,151 @@
+/**
+ * Copyright (c) Facebook, Inc. and its affiliates.
+ *
+ * This source code is licensed under the MIT license found in the
+ * LICENSE file in the root directory of this source tree.
+ */
+
+/* Custom CSS for Physical AI & Humanoid Robotics Textbook */
+
+/* Ensure responsive design across all devices */
+html {
+  font-size: 16px;
+  -webkit-text-size-adjust: 100%;
+  -ms-text-size-adjust: 100%;
+}
+
+/* Main layout adjustments for responsive design */
+.main-wrapper {
+  max-width: 100%;
+  padding: 0 1rem;
+}
+
+/* Container for textbook content */
+.textbook-container {
+  max-width: 100%;
+  margin: 0 auto;
+  padding: 1rem;
+}
+
+/* Responsive adjustments for different screen sizes */
+@media (max-width: 360px) {
+  html {
+    font-size: 14px;
+  }
+}
+
+@media (max-width: 768px) {
+  .textbook-container {
+    padding: 0.5rem;
+  }
+}
+
+@media (min-width: 769px) and (max-width: 1200px) {
+  .textbook-container {
+    padding: 1rem;
+  }
+}
+
+@media (min-width: 1201px) {
+  .textbook-container {
+    max-width: 1200px;
+    padding: 1rem 2rem;
+  }
+}
+
+/* Responsive typography for better readability */
+.markdown h1 {
+  font-size: 1.8rem;
+  line-height: 1.4;
+}
+
+.markdown h2 {
+  font-size: 1.5rem;
+  line-height: 1.4;
+}
+
+.markdown h3 {
+  font-size: 1.3rem;
+  line-height: 1.4;
+}
+
+@media (min-width: 768px) {
+  .markdown h1 {
+    font-size: 2.2rem;
+  }
+  
+  .markdown h2 {
+    font-size: 1.8rem;
+  }
+  
+  .markdown h3 {
+    font-size: 1.5rem;
+  }
+}
+
+/* Responsive images and media */
+img {
+  max-width: 100%;
+  height: auto;
+}
+
+/* MathJax responsive adjustments */
+.katex-display {
+  overflow-x: auto;
+  overflow-y: hidden;
+}
+
+/* Responsive code blocks */
+.prism-code {
+  font-size: 0.9rem;
+  line-height: 1.4;
+  overflow-x: auto;
+}
+
+/* Sidebar adjustments for mobile */
+@media (max-width: 996px) {
+  .navbar-sidebar--show {
+    z-index: 1000;
+  }
+}
+
+/* Adjustments for wide tables */
+.table-wrapper {
+  overflow-x: auto;
+}
+
+/* Accessibility enhancements */
+@media (prefers-reduced-motion: reduce) {
+  * {
+    animation-duration: 0.01ms !important;
+    animation-iteration-count: 1 !important;
+    transition-duration: 0.01ms !important;
+  }
+}
+
+/* High contrast mode support */
+@media (prefers-contrast: high) {
+  :root {
+    --ifm-color-emphasis-0: var(--ifm-color-gray-100);
+    --ifm-color-emphasis-100: var(--ifm-color-gray-200);
+    --ifm-color-emphasis-200: var(--ifm-color-gray-300);
+    --ifm-color-emphasis-300: var(--ifm-color-gray-400);
+    --ifm-color-emphasis-400: var(--ifm-color-gray-500);
+    --ifm-color-emphasis-500: var(--ifm-color-gray-600);
+    --ifm-color-emphasis-600: var(--ifm-color-gray-700);
+    --ifm-color-emphasis-700: var(--ifm-color-gray-800);
+    --ifm-color-emphasis-800: var(--ifm-color-gray-900);
+    --ifm-color-emphasis-900: var(--ifm-color-gray-1000);
+    --ifm-color-emphasis-1000: var(--ifm-color-gray-1000);
+  }
+}
+
+/* Focus management for keyboard navigation */
+button:focus,
+a:focus,
+input:focus,
+select:focus,
+textarea:focus {
+  outline: 2px solid var(--ifm-color-primary);
+  outline-offset: 2px;
+}

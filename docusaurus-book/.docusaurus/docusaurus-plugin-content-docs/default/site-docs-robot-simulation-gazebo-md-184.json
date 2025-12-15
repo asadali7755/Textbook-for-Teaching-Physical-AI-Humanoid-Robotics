@@ -1,0 +1,27 @@
+{
+  "id": "robot-simulation/gazebo",
+  "title": "Robot Simulation with Gazebo",
+  "description": "This chapter covers the use of Gazebo, a powerful robotics simulator that provides accurate physics simulation, high-quality graphics, and convenient programmatic interfaces.",
+  "source": "@site/docs/robot-simulation/gazebo.md",
+  "sourceDirName": "robot-simulation",
+  "slug": "/robot-simulation/gazebo",
+  "permalink": "/docusaurus-textbook-physical-ai-humanoid-robotics/docs/robot-simulation/gazebo",
+  "draft": false,
+  "unlisted": false,
+  "editUrl": "https://github.com/your-username/your-repo/edit/main/docusaurus-book/docs/robot-simulation/gazebo.md",
+  "tags": [],
+  "version": "current",
+  "frontMatter": {
+    "id": "gazebo",
+    "title": "Robot Simulation with Gazebo"
+  },
+  "sidebar": "textbook",
+  "previous": {
+    "title": "ROS 2 Examples and Best Practices",
+    "permalink": "/docusaurus-textbook-physical-ai-humanoid-robotics/docs/ros2-fundamentals/ros2-examples"
+  },
+  "next": {
+    "title": "Robot Simulation with Unity",
+    "permalink": "/docusaurus-textbook-physical-ai-humanoid-robotics/docs/robot-simulation/unity"
+  }
+}

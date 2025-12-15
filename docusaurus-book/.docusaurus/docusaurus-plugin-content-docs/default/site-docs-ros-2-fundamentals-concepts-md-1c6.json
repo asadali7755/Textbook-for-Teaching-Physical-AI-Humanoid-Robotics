@@ -1,0 +1,27 @@
+{
+  "id": "ros2-fundamentals/ros2-concepts",
+  "title": "Core ROS 2 Concepts",
+  "description": "This section delves deeper into the fundamental concepts that make ROS 2 a powerful framework for robotics development.",
+  "source": "@site/docs/ros2-fundamentals/concepts.md",
+  "sourceDirName": "ros2-fundamentals",
+  "slug": "/ros2-fundamentals/ros2-concepts",
+  "permalink": "/docusaurus-textbook-physical-ai-humanoid-robotics/docs/ros2-fundamentals/ros2-concepts",
+  "draft": false,
+  "unlisted": false,
+  "editUrl": "https://github.com/your-username/your-repo/edit/main/docusaurus-book/docs/ros2-fundamentals/concepts.md",
+  "tags": [],
+  "version": "current",
+  "frontMatter": {
+    "id": "ros2-concepts",
+    "title": "Core ROS 2 Concepts"
+  },
+  "sidebar": "textbook",
+  "previous": {
+    "title": "ROS 2 Fundamentals",
+    "permalink": "/docusaurus-textbook-physical-ai-humanoid-robotics/docs/ros2-fundamentals/"
+  },
+  "next": {
+    "title": "ROS 2 Examples and Best Practices",
+    "permalink": "/docusaurus-textbook-physical-ai-humanoid-robotics/docs/ros2-fundamentals/ros2-examples"
+  }
+}

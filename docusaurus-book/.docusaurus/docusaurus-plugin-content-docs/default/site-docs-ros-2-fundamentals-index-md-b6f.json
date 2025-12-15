@@ -1,0 +1,28 @@
+{
+  "id": "ros2-fundamentals/ros2-intro",
+  "title": "ROS 2 Fundamentals",
+  "description": "This chapter introduces the Robot Operating System (ROS 2), the middleware framework that enables communication and coordination between different robotic components.",
+  "source": "@site/docs/ros2-fundamentals/index.md",
+  "sourceDirName": "ros2-fundamentals",
+  "slug": "/ros2-fundamentals/",
+  "permalink": "/docusaurus-textbook-physical-ai-humanoid-robotics/docs/ros2-fundamentals/",
+  "draft": false,
+  "unlisted": false,
+  "editUrl": "https://github.com/your-username/your-repo/edit/main/docusaurus-book/docs/ros2-fundamentals/index.md",
+  "tags": [],
+  "version": "current",
+  "frontMatter": {
+    "id": "ros2-intro",
+    "title": "ROS 2 Fundamentals",
+    "sidebar_label": "ROS 2 Fundamentals"
+  },
+  "sidebar": "textbook",
+  "previous": {
+    "title": "Introduction",
+    "permalink": "/docusaurus-textbook-physical-ai-humanoid-robotics/docs/intro"
+  },
+  "next": {
+    "title": "Core ROS 2 Concepts",
+    "permalink": "/docusaurus-textbook-physical-ai-humanoid-robotics/docs/ros2-fundamentals/ros2-concepts"
+  }
+}

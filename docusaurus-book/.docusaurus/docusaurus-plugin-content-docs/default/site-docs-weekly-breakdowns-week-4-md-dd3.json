@@ -1,0 +1,27 @@
+{
+  "id": "weekly-breakdowns/week-4",
+  "title": "Week 4 - NVIDIA Isaac Platform",
+  "description": "This week focuses on the NVIDIA Isaac platform, which provides specialized tools and hardware acceleration for AI-powered robotics applications.",
+  "source": "@site/docs/weekly-breakdowns/week-4.md",
+  "sourceDirName": "weekly-breakdowns",
+  "slug": "/weekly-breakdowns/week-4",
+  "permalink": "/docusaurus-textbook-physical-ai-humanoid-robotics/docs/weekly-breakdowns/week-4",
+  "draft": false,
+  "unlisted": false,
+  "editUrl": "https://github.com/your-username/your-repo/edit/main/docusaurus-book/docs/weekly-breakdowns/week-4.md",
+  "tags": [],
+  "version": "current",
+  "frontMatter": {
+    "id": "week-4",
+    "title": "Week 4 - NVIDIA Isaac Platform"
+  },
+  "sidebar": "textbook",
+  "previous": {
+    "title": "Week 3 - Robot Simulation",
+    "permalink": "/docusaurus-textbook-physical-ai-humanoid-robotics/docs/weekly-breakdowns/week-3"
+  },
+  "next": {
+    "title": "Week 5 - Vision-Language-Action (VLA) Systems",
+    "permalink": "/docusaurus-textbook-physical-ai-humanoid-robotics/docs/weekly-breakdowns/week-5"
+  }
+}

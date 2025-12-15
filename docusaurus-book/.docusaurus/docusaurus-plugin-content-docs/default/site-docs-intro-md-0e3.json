@@ -1,0 +1,22 @@
+{
+  "id": "intro",
+  "title": "Introduction",
+  "description": "Welcome to the Physical AI & Humanoid Robotics textbook. This comprehensive guide covers the fundamental concepts, development techniques, and practical applications of physical artificial intelligence and humanoid robotics.",
+  "source": "@site/docs/intro.md",
+  "sourceDirName": ".",
+  "slug": "/intro",
+  "permalink": "/docusaurus-textbook-physical-ai-humanoid-robotics/docs/intro",
+  "draft": false,
+  "unlisted": false,
+  "editUrl": "https://github.com/your-username/your-repo/edit/main/docusaurus-book/docs/intro.md",
+  "tags": [],
+  "version": "current",
+  "frontMatter": {
+    "title": "Introduction"
+  },
+  "sidebar": "textbook",
+  "next": {
+    "title": "ROS 2 Fundamentals",
+    "permalink": "/docusaurus-textbook-physical-ai-humanoid-robotics/docs/ros2-fundamentals/"
+  }
+}

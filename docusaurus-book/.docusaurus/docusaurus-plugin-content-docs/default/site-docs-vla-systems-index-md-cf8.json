@@ -1,0 +1,27 @@
+{
+  "id": "vla-systems/vla-systems-intro",
+  "title": "Vision-Language-Action (VLA) Systems",
+  "description": "This chapter covers Vision-Language-Action (VLA) systems, which represent a paradigm for embodied AI that integrates visual perception, language understanding, and action execution in a unified framework. These systems are crucial for humanoid robots that need to interact with humans and environments using natural language commands.",
+  "source": "@site/docs/vla-systems/index.md",
+  "sourceDirName": "vla-systems",
+  "slug": "/vla-systems/",
+  "permalink": "/docusaurus-textbook-physical-ai-humanoid-robotics/docs/vla-systems/",
+  "draft": false,
+  "unlisted": false,
+  "editUrl": "https://github.com/your-username/your-repo/edit/main/docusaurus-book/docs/vla-systems/index.md",
+  "tags": [],
+  "version": "current",
+  "frontMatter": {
+    "id": "vla-systems-intro",
+    "title": "Vision-Language-Action (VLA) Systems"
+  },
+  "sidebar": "textbook",
+  "previous": {
+    "title": "NVIDIA Isaac Platform",
+    "permalink": "/docusaurus-textbook-physical-ai-humanoid-robotics/docs/nvidia-isaac/"
+  },
+  "next": {
+    "title": "Conversational Robotics",
+    "permalink": "/docusaurus-textbook-physical-ai-humanoid-robotics/docs/conversational-robotics/"
+  }
+}

@@ -1,0 +1,27 @@
+{
+  "id": "robot-simulation/unity",
+  "title": "Robot Simulation with Unity",
+  "description": "This chapter covers the use of Unity, a powerful game engine that has been adapted for robotics simulation, particularly for scenarios requiring high-fidelity graphics and complex environments.",
+  "source": "@site/docs/robot-simulation/unity.md",
+  "sourceDirName": "robot-simulation",
+  "slug": "/robot-simulation/unity",
+  "permalink": "/docusaurus-textbook-physical-ai-humanoid-robotics/docs/robot-simulation/unity",
+  "draft": false,
+  "unlisted": false,
+  "editUrl": "https://github.com/your-username/your-repo/edit/main/docusaurus-book/docs/robot-simulation/unity.md",
+  "tags": [],
+  "version": "current",
+  "frontMatter": {
+    "id": "unity",
+    "title": "Robot Simulation with Unity"
+  },
+  "sidebar": "textbook",
+  "previous": {
+    "title": "Robot Simulation with Gazebo",
+    "permalink": "/docusaurus-textbook-physical-ai-humanoid-robotics/docs/robot-simulation/gazebo"
+  },
+  "next": {
+    "title": "NVIDIA Isaac Platform",
+    "permalink": "/docusaurus-textbook-physical-ai-humanoid-robotics/docs/nvidia-isaac/"
+  }
+}

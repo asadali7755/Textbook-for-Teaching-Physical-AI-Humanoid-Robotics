@@ -1,0 +1,27 @@
+{
+  "id": "weekly-breakdowns/week-1",
+  "title": "Week 1 - Introduction to Physical AI",
+  "description": "This week introduces the foundational concepts of Physical AI and Embodied Intelligence that will underpin the rest of the textbook.",
+  "source": "@site/docs/weekly-breakdowns/week-1.md",
+  "sourceDirName": "weekly-breakdowns",
+  "slug": "/weekly-breakdowns/week-1",
+  "permalink": "/docusaurus-textbook-physical-ai-humanoid-robotics/docs/weekly-breakdowns/week-1",
+  "draft": false,
+  "unlisted": false,
+  "editUrl": "https://github.com/your-username/your-repo/edit/main/docusaurus-book/docs/weekly-breakdowns/week-1.md",
+  "tags": [],
+  "version": "current",
+  "frontMatter": {
+    "id": "week-1",
+    "title": "Week 1 - Introduction to Physical AI"
+  },
+  "sidebar": "textbook",
+  "previous": {
+    "title": "Conversational Robotics",
+    "permalink": "/docusaurus-textbook-physical-ai-humanoid-robotics/docs/conversational-robotics/"
+  },
+  "next": {
+    "title": "Week 2 - ROS 2 Fundamentals",
+    "permalink": "/docusaurus-textbook-physical-ai-humanoid-robotics/docs/weekly-breakdowns/week-2"
+  }
+}

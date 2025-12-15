@@ -1,0 +1,72 @@
+/* Base layout styles for textbook chapters */
+.textbookLayout {
+  max-width: 100%;
+  margin: 0 auto;
+  padding: 0 1rem;
+}
+
+.learningObjectives {
+  background-color: #f8f9fa;
+  border-left: 4px solid #4285f4;
+  padding: 1rem 1.5rem;
+  margin: 1.5rem 0;
+}
+
+.learningObjectives h2 {
+  margin-top: 0;
+  color: #2c3e50;
+}
+
+.learningObjectives ul {
+  padding-left: 1.5rem;
+}
+
+.learningObjectives li {
+  margin-bottom: 0.5rem;
+  line-height: 1.5;
+}
+
+.mainContent {
+  margin: 1.5rem 0;
+}
+
+.chapterSummary {
+  background-color: #e8f4fd;
+  border-left: 4px solid #34a853;
+  padding: 1.5rem;
+  margin: 1.5rem 0;
+}
+
+.chapterSummary h2 {
+  margin-top: 0;
+  color: #2c3e50;
+}
+
+/* Responsive adjustments */
+@media (max-width: 768px) {
+  .textbookLayout {
+    padding: 0 0.5rem;
+  }
+
+  .learningObjectives,
+  .chapterSummary {
+    padding: 1rem;
+  }
+}
+
+@media (min-width: 769px) {
+  .textbookLayout {
+    max-width: 900px;
+    padding: 0 2rem;
+  }
+}
+
+/* Accessibility enhancements */
+.textbookLayout :global(.table-wrapper) {
+  overflow-x: auto;
+}
+
+.textbookLayout :global(.prism-code) {
+  white-space: pre-wrap;
+  word-wrap: break-word;
+}

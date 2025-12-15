@@ -1,0 +1,27 @@
+{
+  "id": "weekly-breakdowns/week-2",
+  "title": "Week 2 - ROS 2 Fundamentals",
+  "description": "This week focuses on the Robot Operating System 2 (ROS 2), the middleware framework essential for robotics development.",
+  "source": "@site/docs/weekly-breakdowns/week-2.md",
+  "sourceDirName": "weekly-breakdowns",
+  "slug": "/weekly-breakdowns/week-2",
+  "permalink": "/docusaurus-textbook-physical-ai-humanoid-robotics/docs/weekly-breakdowns/week-2",
+  "draft": false,
+  "unlisted": false,
+  "editUrl": "https://github.com/your-username/your-repo/edit/main/docusaurus-book/docs/weekly-breakdowns/week-2.md",
+  "tags": [],
+  "version": "current",
+  "frontMatter": {
+    "id": "week-2",
+    "title": "Week 2 - ROS 2 Fundamentals"
+  },
+  "sidebar": "textbook",
+  "previous": {
+    "title": "Week 1 - Introduction to Physical AI",
+    "permalink": "/docusaurus-textbook-physical-ai-humanoid-robotics/docs/weekly-breakdowns/week-1"
+  },
+  "next": {
+    "title": "Week 3 - Robot Simulation",
+    "permalink": "/docusaurus-textbook-physical-ai-humanoid-robotics/docs/weekly-breakdowns/week-3"
+  }
+}
