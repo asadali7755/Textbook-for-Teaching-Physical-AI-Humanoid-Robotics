@@ -11,7 +11,7 @@ const config = {
   favicon: 'img/favicon.ico',
 
   // Set the production url of your site here
-  url: 'https://your-username.github.io', // Update this to your GitHub Pages URL
+  url: 'https://docusaurus-book-rho.vercel.app', // Update this to your GitHub Pages URL
   // Set the /<base> pathname under which your site is served
   // For GitHub Pages, this is usually /<github-username>.github.io/<repository-name>
   baseUrl: '/docusaurus-textbook-physical-ai-humanoid-robotics/',
